@@ -1,0 +1,8 @@
+ClientTransportPlugin obfs4 exec /usr/bin/lyrebird
+UseBridges 1
+# Bridge obfs4 ... ← вставьте сюда свои мосты из @GetBridgesBot
+
+SafeLogging 1
+Log notice stdout
+SocksPort 0.0.0.0:9050
+DataDirectory /var/lib/tor
