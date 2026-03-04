@@ -58,7 +58,7 @@ newgrp docker
 ## 3. Клонируем репозиторий
 
 ```bash
-git clone https://github.com/LinSwitc/discover-flatpak-openh264
+git clone https://github.com/LinSwitch/discover-flatpak-openh264
 cd discover-flatpak-openh264
 ```
 
